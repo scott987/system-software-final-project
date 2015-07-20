@@ -1,9 +1,9 @@
 # system-software-final-project
-system software final project homework
+system software final project homework  
 A simple SIC/XE assembler
 
 #Environment
-python 3.4
+python 3.4  
 os:windows 7 and upper
 
 #Licence
